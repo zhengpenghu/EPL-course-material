@@ -1,0 +1,16 @@
+
+
+stack frame:
+
+...
+param 2
+param 1
+old program counter <<--- on entry, SP points here
+old frame pointer << --- FP points here
+locals, tmp
+
+
+
+array of objects
+
+[num_objs] [ obj1 obj2 obj3 ]
